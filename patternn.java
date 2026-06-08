@@ -4,8 +4,7 @@ import java.util.Scanner;
         Scanner sc = new Scanner(System.in);
         System.out.print("enter num");
         int n = sc.nextInt();
-        int r=1;
-        for(int i=1;i<=n;i++){
+        for(int i=n;i>=1;i--){
             for(int j=1;j<=i;j++){
                 System.out.print("*");
                 if(j<i){
@@ -16,3 +15,4 @@ import java.util.Scanner;
         }
     }
    }
+
