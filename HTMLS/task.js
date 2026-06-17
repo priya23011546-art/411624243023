@@ -2,7 +2,7 @@ function checkRoll() {
     let roll = Number(document.getElementById("roll").value);
 
     let video = document.getElementById("video");
-    let btn = document.getElementById("mainBtn");
+    let btn = document.getElementById("mainbtn");
     let img = document.getElementById("img");
 
     if (roll % 2 == 0) {

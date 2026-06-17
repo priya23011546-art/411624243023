@@ -24,7 +24,7 @@ h1{
 
 img{
         width: 250px;
-        border-radius: 50px;
+        border-radius: 20px;
         /* background-color:rgb(164, 28, 84); */
         padding:20px;
     
@@ -59,8 +59,8 @@ button:havor{
 .box{
     padding: 20px;
     text-align: center;
-    border: 1px solid rgb(142, 15, 112);
-    /* background-color: rgb(12, 219, 188); */
+    border: 1px solid rgb(134, 142, 15);
+    background-color: rgb(12, 219, 188); */
 }
 @media (max-width:660px) {
     .grid{
