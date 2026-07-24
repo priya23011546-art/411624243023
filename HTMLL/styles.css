@@ -1,4 +1,4 @@
- p{
+ /* p{
     font-size:xx-large;
     font-weight: bolder;
 } 
@@ -72,10 +72,10 @@ form{
     width:100%;
     grid-template-columns: 33% 33% 33%;
     /*grid-template-rows: 33% 33% 33%;*/
-} */
-#one{
+/* } */
+/* #one{
     /* grid-row: 1/2; */
-    background-color: aqua;
+    /* background-color: aqua;
 }
 #two{
     /* grid-row: 1/2; */
@@ -135,4 +135,4 @@ img{
         display: grid;
         grid-template-columns: 33% 33% 33%;
     }
-}
+}  */
